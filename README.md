@@ -1,14 +1,19 @@
-<h1 align="center">🖥️ Flack's Cut & Connect — Desktop App</h1>
+# Flack's Cut & Connect — Desktop App
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-f89820?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?logo=coffeescript&logoColor=white" alt="Java Swing">
+  <img src="https://img.shields.io/badge/License-GPL_v3-0298c3?logo=gnu&logoColor=white" alt="GPL v3">
+</p>
 
 <p align="center">
   <em>Desktop application for administrative management, inventory control, and reporting</em>
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/Java-21-f89820?logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Java-21-f89820?logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="https://img.shields.io/badge/Java_Swing-ED8B00?logo=coffeescript&logoColor=white"><img src="https://img.shields.io/badge/Java_Swing-ED8B00?logo=coffeescript&logoColor=white" alt="Java Swing"></a>
-  <a href="https://img.shields.io/badge/License-GPL_v3-0298c3?logo=gnu&logoColor=white"><img src="https://img.shields.io/badge/License-GPL_v3-0298c3?logo=gnu&logoColor=white" alt="GPL v3"></a>
-  <a href="https://img.shields.io/badge/Status-Active-2ea44f"><img src="https://img.shields.io/badge/Status-Active-2ea44f" alt="Active"></a>
+  <a href="https://github.com/flacks-cc/desktop-app">Repository</a>
+  ·
+  <a href="https://github.com/flacks-cc/desktop-app/issues">Report Bug</a>
 </p>
 
 <p align="center">
@@ -17,7 +22,18 @@
 
 ---
 
-## 🚀 Quick Start
+## About Flack's Cut & Connect
+
+Desktop application built with Java and Swing for comprehensive administrative management. Provides inventory control, sales reporting, and staff administration for barbershop operations.
+
+## Features
+
+- Administrative management
+- Inventory control
+- Sales reporting
+- Staff administration
+
+## Quick Start
 
 ### Prerequisites
 
@@ -25,7 +41,7 @@
 - Apache Ant
 - NetBeans IDE (recommended)
 
-### Installation
+### Setup
 
 ```bash
 git clone https://github.com/flacks-cc/desktop-app.git
@@ -33,42 +49,35 @@ cd desktop-app
 ant build
 ```
 
-## 🧩 Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Language | Java 21 |
-| UI | Java Swing |
-| Build | Apache Ant |
-| IDE | NetBeans |
-
-## 📂 Project Structure
+## Architecture
 
 ```
-desktop-app/
-├── src/
-├── nbproject/
-├── build.xml
-├── manifest.mf
-└── README.md
+(TBD)
 ```
 
-## 🤝 Contributing
+## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for branch naming, commit conventions, and PR workflow.
 
-## 📄 License
+## License
 
-GPL v3 — see [LICENSE](LICENSE).
+This project is licensed under the GPL v3 — see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 **Authors:**
 
-- [@chrisssp](https://github.com/chrisssp) — Developer
+- Serrano Puertos Jorge Christian
+- Chávez Moreno José Eduardo
+- Fernández López Kevin Noé
+- Florentino Altamirano Misrael
+- Ortiz Pérez Alejandro
+- Moises Torres Bernabé
 
----
+**Advisors:**
 
-<p align="center">
-  <sub>Built with ❤️ by the flacks-cc team · 2026</sub>
-</p>
+- (TBD)
+
+**Academic Support:**
+
+- (TBD)
