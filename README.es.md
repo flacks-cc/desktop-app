@@ -47,12 +47,6 @@ cd desktop-app
 ant build
 ```
 
-## Arquitectura
-
-```
-(Pendiente)
-```
-
 ## Contribuciones
 
 Lee [CONTRIBUTING.md](CONTRIBUTING.md) para conocer las convenciones de ramas, commits y PRs.
